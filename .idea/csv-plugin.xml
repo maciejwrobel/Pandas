@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\6_Filtering_Data.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\6_Sorting_Values.py">
           <value>
             <Attribute>
@@ -39,6 +46,20 @@
           </value>
         </entry>
         <entry key="\7_Making_Changes_To_Data_Frame.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\7_Reset_Index.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\filtered.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

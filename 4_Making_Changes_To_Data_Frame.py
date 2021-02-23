@@ -17,7 +17,7 @@ df['Total'] = df.iloc[:, 4:10].sum(axis=1)
 
 # print(df.head(5))
 
-'''reordering columns, !!! single column in [] because it will be read as string !!!'''
+'''rearenging columns, !!! single column in [] because it will be read as string !!!'''
 cols = list(df.columns.values)
 df = df[cols[0:4] + [cols[-1]] + cols[4:12]]
 
