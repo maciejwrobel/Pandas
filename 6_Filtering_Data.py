@@ -19,4 +19,3 @@ new_df.to_csv('filtered.csv')
 ''' reseting index inplace (need memory)'''
 new_df.reset_index(drop=True, inplace=True)
 
-'''37:41'''

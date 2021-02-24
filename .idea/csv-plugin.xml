@@ -52,7 +52,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\7_Regex_Filtering.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\7_Reset_Index.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\9_Conditional_Changes.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
