@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\10_Big_Data.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\1_Loading_Data.py">
           <value>
             <Attribute>
@@ -67,6 +74,13 @@
           </value>
         </entry>
         <entry key="\9_Conditional_Changes.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\9_aggregate_statistics.py">
           <value>
             <Attribute>
               <option name="separator" value="," />

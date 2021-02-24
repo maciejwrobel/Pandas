@@ -1,5 +1,4 @@
 import pandas as pd
-import re
 
 df = pd.read_csv('pokemon_data.csv')
 
